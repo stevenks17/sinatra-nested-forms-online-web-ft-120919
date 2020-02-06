@@ -1,4 +1,3 @@
-Learn more or give us feedback
 require './environment'
 
 module FormsLab
@@ -24,3 +23,4 @@ module FormsLab
     end
 
   end
+end
